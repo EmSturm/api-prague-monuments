@@ -1,13 +1,7 @@
 [
     {
-        "id": 0,
-        "name": "Národní divadlo",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
         "id": 1,
-        "name": "Pražský hrad / Chrám sv. Víta",
+        "name": "Pražský hrad",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
@@ -19,94 +13,53 @@
     },
     {
         "id": 3,
-        "name": "Petřínská rozhledna",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 4,
         "name": "Karlův most",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Klementinum",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },  
     {
-        "id": 6,
+        "id": 5,
         "name": "Rudolfinum",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "Orloj",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
     {
+        "id": 7,
+        "name": "Chrám sv. Víta",
+        "description": "lorem5",
+        "image": "http://localhost:4000/assets/"
+    },
+    {
         "id": 8,
-        "name": "Žižkovská věž",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 9,
-        "name": "Žižkovská věž",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 10,
-        "name": "Žižkovská věž",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 11,
         "name": "Tančící dům",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
     {
-        "id": 12,
-        "name": "Staroměstsk náměstí",
+        "id": 9,
+        "name": "Staroměstské náměstí",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
     },
     {
-        "id": 13,
+        "id": 10,
         "name": "Týnský chrám",
         "description": "lorem5",
         "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 14,
-        "name": "Národní muzeum",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 15,
-        "name": "Pražské jezulátko",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 16,
-        "name": "Václavské náměstí",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
-    },
-    {
-        "id": 17,
-        "name": "Obecní dům & Prašná brána",
-        "description": "lorem5",
-        "image": "http://localhost:4000/assets/"
     }
+    
 ]
  
 
